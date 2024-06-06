@@ -1,0 +1,11 @@
+.link {
+	margin: 0 1.5%;
+	font-size: 1rem;
+    color: #05101c;
+}
+
+.pending {
+	height: 100%;
+	width: auto;
+    color: #05101c;
+}
